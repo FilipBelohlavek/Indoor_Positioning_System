@@ -7,6 +7,38 @@ The main code is divided into 5 files.
 * *HomeAssistant.cpp* and *IPS.cpp* in the "lib" folder
 * *HomeAssistant.h* and *IPS.h* in the "include" folder
 
+#### Home Assistant
+
+In this section of code, the support for Home Assistant automation system is implemented. 
+
+
+#### IPS
+
+This section handles the "pass detection" itself. It also deals with connecting the device to Wi-Fi network.
+
+
+### Prototype pictures
+
+<p align="center">
+<img src="Images/20200513_175806.jpg" alt="alt text" width="1008" height="756">
+</p>
+
+<p align="center">
+<img src="Images/20200513_175820.jpg" alt="alt text" width="1008" height="756">
+</p>
+
+<p align="center">
+<img src="Images/20200513_175841.jpg" alt="alt text" width="1008" height="756">
+</p>
+
+<p align="center">
+<img src="Images/20200513_175849.jpg" alt="alt text" width="1008" height="756">
+</p>
+
+<p align="center">
+<img src="Images/20200513_175858.jpg" alt="alt text" width="1008" height="756">
+</p>
+
 
 
 

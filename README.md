@@ -1,23 +1,16 @@
 # Indoor_Positioning_System
 
 ### Initial setup
-* The user has to connect to ESP8266 with his WiFi enabled device. 
 
 <p align="center">
-<img src="Images/Screenshot_20200331-103919_Settings.jpg" alt="alt text" width="270" height="480">
+<img src="IPS-SETUP.png" alt="alt text" width="270" height="480">
 </p>
+
+* The user has to connect to ESP8266 with his WiFi enabled device. 
 
 * The user then navigates to 192.168.4.1 IP address, where a menu web page is presented. 
 
-<p align="center">
-<img src="Images/Screenshot_20200331-103940_Chrome.jpg" alt="alt text" width="270" height="480">
-</p>
-
 * Choosing the "Configure WiFi" option, the user is presented with following menu. Here the user has to pick an SSID and enter WiFi password as well as enter the names of both of the X and Y sides of the device, such as <br>X: LivingRoom<br>Y: Hallway
-
-<p align="center">
-<img src="Images/Screenshot_20200331-104002_Chrome.jpg" alt="alt text" width="270" height="480">
-</p>
 
 * Hitting "save" option will end the configuration process.<br>
 In the Home Assistant app, user is then able to add both LivingRoom and Hallway cards to monitor the number of people in those rooms. The user is then free to create any automation in Home Assistant with these entities.

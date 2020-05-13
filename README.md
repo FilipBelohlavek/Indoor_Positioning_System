@@ -1,5 +1,15 @@
 # Indoor_Positioning_System
 
+### README
+
+The main code is divided into 5 files. 
+* *main.cpp* in the "src" folder
+* *HomeAssistant.cpp* and *IPS.cpp* in the "lib" folder
+* *HomeAssistant.h* and *IPS.h* in the "include" folder
+
+
+
+
 ### Initial setup
 
 <p align="center">

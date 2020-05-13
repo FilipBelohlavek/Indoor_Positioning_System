@@ -9,12 +9,14 @@ The main code is divided into 5 files.
 
 #### Home Assistant
 
-In this section of code, the support for Home Assistant automation system is implemented. 
+In this section of code, the support for Home Assistant automation system is implemented.
+*HomeAssistant.h* contains short commentary of what each of the declared functions does.
 
 
 #### IPS
 
 This section handles the "pass detection" itself. It also deals with connecting the device to Wi-Fi network.
+*IPS.h* contains short commentary of what each of the declared functions does.
 
 
 ### Prototype pictures

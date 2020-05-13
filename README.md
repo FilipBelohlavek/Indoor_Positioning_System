@@ -3,7 +3,7 @@
 ### Initial setup
 
 <p align="center">
-<img src="IPS-SETUP.png" alt="alt text" width="270" height="480">
+<img src="Images/IPS-SETUP.png" alt="alt text" width="270" height="480">
 </p>
 
 * The user has to connect to ESP8266 with his WiFi enabled device. 
